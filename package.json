@@ -1,0 +1,10 @@
+{
+  "name": "approval-binding-tests",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": { "test": "node --test" },
+  "dependencies": { "@countersignlabs/counter-sign": "0.2.0" }
+}
